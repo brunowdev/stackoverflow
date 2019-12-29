@@ -29,7 +29,7 @@ This project is addressed to answer three questions using data from the Stack Ov
 
 ## Results<a name="results"></a>
 
-A post with the results is available [here](https://medium.com/@brunowdev/da40583a47d3).
+A post with the results is available [here](https://medium.com/@brunowdev/what-we-could-learn-about-technology-based-on-stack-overflow-developer-survey-da40583a47d3?sk=245ec8577310763288b267199c4d4f07).
 
 ## Licensing and dataset<a name="licensing-data"></a>
 
